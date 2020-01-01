@@ -30,4 +30,6 @@ public class Demo {
     public void test() {};
 
     public void test2(){};
+
+    public void test3(){};
 }
