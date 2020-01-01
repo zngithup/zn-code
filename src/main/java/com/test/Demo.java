@@ -19,4 +19,6 @@ public class Demo {
     }
 
     public void say() {};
+
+    public void hello() {};
 }
