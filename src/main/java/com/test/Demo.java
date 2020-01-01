@@ -25,4 +25,6 @@ public class Demo {
     public void hello() {};
 
     public void test() {};
+
+    public void test2(){};
 }
