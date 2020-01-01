@@ -26,6 +26,8 @@ public class Demo {
         System.out.println("3333333333");
         System.out.println("44444444");
         System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbb");
+        System.out.println("0000000000000000000");
+        System.out.println("7777777777777777777777777777777777");
     }
 
     public void say() {};
