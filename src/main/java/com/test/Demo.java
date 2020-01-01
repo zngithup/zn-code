@@ -40,6 +40,4 @@ public class Demo {
     public void test3(){
         System.out.println("33333333333333333333333333333333333333333333333333");
     };
-
-
 }
