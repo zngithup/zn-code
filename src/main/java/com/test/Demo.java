@@ -14,5 +14,6 @@ public class Demo {
         System.out.println("分支1再次提交代码。。。。。");
         System.out.println("分支2再次提交代码。。。。");
         System.out.println("修改bug");
+        System.out.println("修改bug");
     }
 }
